@@ -1,2 +1,3 @@
 # stepik-auto-tests-course
-Hometsk for course
+Hometask for course
+i hope i'll survive after that)
